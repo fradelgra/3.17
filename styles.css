@@ -1,0 +1,37 @@
+body.pepitogrillo{
+
+    background-color: lightblue;
+
+}
+
+iframe.incrustar{
+
+    display: block;
+    margin: 0% auto;
+    width:75%;
+    min-height: 500px;
+    background-color: rgba(255, 255, 255, 0.5);
+
+}
+
+
+iframe.diferente{
+
+    display: block;
+    margin: 0% auto;
+    background-color: rgba(255, 255, 255, 0.5);
+
+}
+
+.a{
+
+    background-color: red;
+
+}
+
+
+h1{
+
+    background-color: beige;
+
+}
